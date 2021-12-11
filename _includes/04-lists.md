@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Gaurav
+* B.E Mech
+  * Python
+  * DevOps
