@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Hi folks i am gaurav*
+_work in Hexaware as DevOps Engineer_
+
+**I like coding**
+__Hello world...😜__
+
+_You **can** combine them_ 
